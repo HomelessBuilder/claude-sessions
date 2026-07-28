@@ -81,6 +81,7 @@ claude-sessions/
 
 ## Standing Rules
 
+- Verify work before committing: run it, render it, or otherwise confirm the actual result before offering it for commit — precondition for asking, not a substitute for Diego's sign-off. See `~/OVERSEER-MANUAL.md` → "Verify Before Committing" (2026-07-22).
 - No file deletions without explicit instruction from Diego.
 - No permanent changes (commits, pushes, installs) without confirmation.
 - Advise first — surface options and tradeoffs before acting.
